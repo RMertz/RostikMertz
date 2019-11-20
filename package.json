@@ -1,0 +1,44 @@
+{
+  "name": "rostikmertz",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack -d --watch",
+    "start": "node ./server/index.js",
+    "build": "webpack -p",
+    "react-dev": "webpack -d --watch",
+    "server-dev": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RMertz/RostikMertz.git"
+  },
+  "author": "Rostik Mertz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RMertz/RostikMertz/issues"
+  },
+  "homepage": "https://github.com/RMertz/RostikMertz#readme",
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "bable-preset-env": "^1.6.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "framer-motion": "^1.6.15",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-router": "^5.1.2",
+    "react-router-dom": "^5.1.2",
+    "url-loader": "^2.2.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "file-loader": "^4.2.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
