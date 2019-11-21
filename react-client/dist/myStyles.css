@@ -4,23 +4,23 @@ a:hover {
 
 div.github {
 	position: absolute;
-	left: 810px;
+	left: 790px;
 	bottom: 100px;
 }
 div.linkedin {
 	position: absolute;
-	left: 500px;
+	left: 507px;
 	bottom: 100px;
 }
 div.contactInfo {
 	position: absolute;
 	bottom: 150px;
-	left: 200px;
+	left: 242px;
 }
 div.contactInfoEmail {
 	position: absolute;
 	bottom: 100px;
-	left: 205px;
+	left: 242px;
 }
 div.homeHeader{
 	position: absolute;
@@ -34,7 +34,7 @@ div.homeHeader2{
 }
 div.productHeader{
 	position: absolute;
-	left: 350px;
+	left: 349px;
 	top: 289px;
 }
 div.homeBody {
@@ -64,11 +64,11 @@ div.imageLeft {
 	top: 200px;
 }
 div.ipdpProject {
-	background: black;
+	background-color: #00b6bf;
 	position: absolute;
-	width: 300px;
+	width: 400px;
 	height: 300px;
 	float: left;
-	left: 200px;
-	top: 410px;
+	left: 230px;
+	top: 345px;
 }
