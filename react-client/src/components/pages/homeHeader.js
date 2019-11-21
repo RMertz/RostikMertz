@@ -5,8 +5,8 @@ class HomeHeader extends Component {
 						return(
 
 <div class="homeHeader">
-  <h3>
-		<small>My name is </small>Rostik Mertz<small>, I’m a web developer!</small>
+  <h3 class="blue">
+		<small class="black">My name is </small>Rostik Mertz,
 	</h3>
 </div>
 						)

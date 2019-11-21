@@ -5,7 +5,7 @@ class ProductHeader extends Component {
 						return(
 
 <div class="productHeader">
-  <h3>
+  <h3 class="blue">
 		Products
 	</h3>
 </div>

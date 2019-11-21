@@ -1,3 +1,7 @@
+a:hover {
+	text-decoration: none;
+}
+
 div.github {
 	position: absolute;
 	left: 810px;
@@ -23,23 +27,34 @@ div.homeHeader{
 	left: 200px;
 	top: 100px;
 }
+div.homeHeader2{
+	position: absolute;
+	left: 281px;
+	top: 137px;
+}
 div.productHeader{
 	position: absolute;
-	left: 300px;
-	top: 340px;
+	left: 350px;
+	top: 289px;
 }
 div.homeBody {
 	position: absolute;
-	left: 250px;
-	top: 150px;
-	right: 750px;
+	left: 350px;
+	top: 174px;
+	right: 850px;
 	text-align: justify;
 }
 p.blue {
-	color: blue;
+	color: #00b6bf;
 }
+small.black{
+	color: black;
+}
+a:hover {
+	color: #00b6bf;
+}	
 h3.blue {
-	color: blue;
+	color: #00b6bf;
 }
 div.imageLeft {
 	position: absolute;

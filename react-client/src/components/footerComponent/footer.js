@@ -21,7 +21,7 @@ class Footer extends Component {
 						</p>
         </div>
 				<div class='contactInfo'> 
-						<h2><small>Start a </small>Conversation <small>with me, lets </small> Talk</h2>
+						<h3 class="blue"><small class="black">Start a </small>Conversation <small class="black">with me, lets </small> Talk</h3>
 				</div>	
 				<div class='contactInfoEmail'> 
 						<p>
